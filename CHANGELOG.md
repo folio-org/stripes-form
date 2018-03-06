@@ -1,5 +1,8 @@
 # Change history for stripes-form
 
+## [0.9.0](IN PROGRESS)
+* Added the npm package `flat` to help flatten the nested errors object. Refs STRIPES-467
+
 ## [0.8.1](https://github.com/folio-org/stripes-form/tree/v0.8.1) (2017-09-05)
 * Update redux-form dependency to 7.0.3
 * Update stripes-components to 1.5.0.
