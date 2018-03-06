@@ -1,16 +1,15 @@
 import React from 'react';
 import { reduxForm, SubmissionError } from 'redux-form';
-import StripesFormWrapper from './StripesFormWrapper';
 import { flatten } from 'flat';
+import StripesFormWrapper from './StripesFormWrapper';
 
 //  function to scroll to the topmost validation error on a form submit
 const scrollToError = (errors) => {
   const errorElements = flatten(errors);
-  var topMostErrorElement = Object.keys(errorElements).reduce(function(firstErrorElement, secondErrorElement){
-    return document.querySelector(`[name="${firstErrorElement}"]`).getBoundingClientRect().top <
+  const topMostErrorElement = Object.keys(errorElements).reduce((firstErrorElement, secondErrorElement) =>
+    (document.querySelector(`[name="${firstErrorElement}"]`).getBoundingClientRect().top <
     document.querySelector(`[name="${secondErrorElement}"]`).getBoundingClientRect().top
-    ? firstErrorElement : secondErrorElement
-  });
+      ? firstErrorElement : secondErrorElement));
   document.querySelector(`[name="${topMostErrorElement}"]`).scrollIntoView({ top: 0, behavior: 'smooth' });
 };
 
