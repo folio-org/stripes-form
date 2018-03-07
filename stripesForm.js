@@ -6,10 +6,32 @@ import StripesFormWrapper from './StripesFormWrapper';
 //  function to scroll to the topmost validation error on a form submit
 const scrollToError = (errors) => {
   const errorElements = flatten(errors);
-  const topMostErrorElement = Object.keys(errorElements).reduce((firstErrorElement, secondErrorElement) =>
-    (document.querySelector(`[name="${firstErrorElement}"]`).getBoundingClientRect().top <
-    document.querySelector(`[name="${secondErrorElement}"]`).getBoundingClientRect().top
-      ? firstErrorElement : secondErrorElement));
+
+  //  function to replace error names of type 'addresses.0.addressType' to 'addresses[0].addressType'
+  function replacer(match, p1, p2) {
+    return ['[', p2, ']'].join('');
+  }
+
+  Object.keys(errorElements).forEach((key) => {
+    if (key.match(/(\.)(\d+)/)) {
+      const newKey = key.replace(/(\.)(\d+)/, replacer);
+      errorElements[newKey] = errorElements[key];
+      delete errorElements[key];
+    }
+  });
+
+  const topMostErrorElement = Object.keys(errorElements).reduce((topMostelement, currentElement) => {
+    const topMostelementSelector = document.querySelector(`[name="${topMostelement}"]`);
+    const currentElementSelector = document.querySelector(`[name="${currentElement}"]`);
+    if (topMostelementSelector && currentElementSelector) {
+      // compare the top values and return the minimum one
+      return (currentElementSelector.getBoundingClientRect().top <
+      topMostelementSelector.getBoundingClientRect().top) ? currentElement : topMostelement;
+    } else {
+      return currentElement;
+    }
+  }, null);
+
   document.querySelector(`[name="${topMostErrorElement}"]`).scrollIntoView({ top: 0, behavior: 'smooth' });
 };
 
