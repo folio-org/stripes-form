@@ -44,7 +44,7 @@ const optWithOnSubmitFail = opts => Object.assign({
     } else {
       // eslint-disable-next-line no-console
       console.warn(errors);
-      if (errors) scrollToError(errors);
+      if (opts.scrollToError && errors) scrollToError(errors);
     }
   },
 }, opts);
