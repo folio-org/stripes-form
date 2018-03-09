@@ -23,15 +23,15 @@ const scrollToError = (errors) => {
   const topMostErrorElement = Object.keys(errorElements).reduce((topMostelement, currentElement) => {
     const topMostelementSelector = document.querySelector(`[name="${topMostelement}"]`);
     const currentElementSelector = document.querySelector(`[name="${currentElement}"]`);
+
     if (topMostelementSelector && currentElementSelector) {
       // compare the top values and return the minimum one
       return (currentElementSelector.getBoundingClientRect().top <
       topMostelementSelector.getBoundingClientRect().top) ? currentElement : topMostelement;
     } else {
-      return currentElement;
+      return currentElementSelector ? currentElement : topMostelement;
     }
   }, null);
-
   document.querySelector(`[name="${topMostErrorElement}"]`).scrollIntoView({ top: 0, behavior: 'smooth' });
 };
 
