@@ -18,6 +18,6 @@ This option will cause Stripes Form to do a dirty check on the form and in a cas
 
 This option will cause the navigation prompt to include a "Save Data" option which will remotely submit the form. This will only result in a persistence of the form data if persistence of the form's data is triggered by a form submission.
 
-    {scrollToError: [true *defaults to false]}
+    {scrollToError: [false *defaults to true]}
 
-This option will cause Stripes Form to scroll to the topmost validation error after submitting a form.
+This option will cause Stripes Form to scroll to the topmost validation error on form submission. Scrolling is enabled by default, and could be turned-off by setting it to false.
