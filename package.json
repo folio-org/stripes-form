@@ -36,6 +36,6 @@
   },
   "peerDependencies": {
     "react": "*",
-    "stripes-core": "^2.7.0"
+    "@folio/stripes-core": "^2.7.0"
   }
 }
