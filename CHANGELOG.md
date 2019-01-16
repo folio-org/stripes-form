@@ -1,5 +1,8 @@
 # Change history for stripes-form
 
+## [2.0.0](https://github.com/folio-org/stripes-form/tree/v2.0.0) (2019-01-16)
+* Increment `stripes-core` and `stripes-components` versions
+
 ## [1.3.1](https://github.com/folio-org/stripes-form/tree/v1.3.1) (2019-01-16)
 * Revert `stripes-core` and `stripes-components` version changes
 
