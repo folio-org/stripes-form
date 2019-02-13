@@ -1,5 +1,8 @@
 # Change history for stripes-form
 
+## 2.0.1 IN-PROGRESS
+* Handle partially broken `allowRemoteSave` option for the `stripesForm` function (STFORM-6)
+
 ## [2.0.0](https://github.com/folio-org/stripes-form/tree/v2.0.0) (2019-01-16)
 * Increment `stripes-core` and `stripes-components` versions
 
