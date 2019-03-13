@@ -1,5 +1,9 @@
 # Change history for stripes-form
 
+## 2.0.1 (IN PROGRESS)
+
+* Make stripes dependencies more strict with ~ instead of ^. Refs STRIPES-608.
+
 ## [2.0.0](https://github.com/folio-org/stripes-form/tree/v2.0.0) (2019-01-16)
 * Increment `stripes-core` and `stripes-components` versions
 
