@@ -1,6 +1,6 @@
 # Change history for stripes-form
 
-## 2.1.0 (IN-PROGRESS)
+## 2.1.0 IN-PROGRESS
 
 * Handle partially broken `allowRemoteSave` option for the `stripesForm` function (STFORM-6)
 
