@@ -1,8 +1,11 @@
 # Change history for stripes-form
 
-## 2.1.0 IN-PROGRESS
+## [2.1.0](https://github.com/folio-org/stripes-form/tree/v2.1.0) (2019-03-14)
+[Full Changelog](https://github.com/folio-org/stripes-form/compare/v2.0.1...v2.1.0)
 
 * Handle partially broken `allowRemoteSave` option for the `stripesForm` function (STFORM-6)
+* Carry over search params after "Close without saving" is clicked. (STFORM-7)
+* Increment `stripes-core` to v3.1.0 and `stripes-components` to v5.1.0.
 
 ## [2.0.1](https://github.com/folio-org/stripes-form/tree/v2.0.1) (2019-03-13)
 [Full Changelog](https://github.com/folio-org/stripes-form/compare/v2.0.0...v2.0.1)
