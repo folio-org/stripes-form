@@ -1,6 +1,7 @@
 # Change history for stripes-form
 
-## 2.3.0 (IN PROGRESS)
+## [2.3.0](https://github.com/folio-org/stripes-form/tree/v2.3.0) (2019-03-28)
+[Full Changelog](https://github.com/folio-org/stripes-form/compare/v2.2.0...v2.3.0)
 
 * Increment `stripes-core` to v3.3.0, including React 16.8.
 
