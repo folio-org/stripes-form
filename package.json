@@ -4,6 +4,7 @@
   "description": "Form state management in Stripes.",
   "license": "Apache-2.0",
   "repository": "folio-org/stripes-form",
+  "sideEffects": ["*.css"],
   "publishConfig": {
     "registry": "https://repository.folio.org/repository/npm-folio/"
   },
