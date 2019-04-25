@@ -1,6 +1,8 @@
 # Change history for stripes-form
 
-## 2.3.1 (IN-PROGRESS)
+## [2.4.0](https://github.com/folio-org/stripes-form/tree/v2.4.0) (2019-04-25)
+[Full Changelog](https://github.com/folio-org/stripes-form/compare/v2.3.0...v2.4.0)
+
 * Turned off sideEffects to enable tree-shaking for production builds. Refs STRIPES-564 and STRIPES-581.
 
 ## [2.3.0](https://github.com/folio-org/stripes-form/tree/v2.3.0) (2019-03-28)
