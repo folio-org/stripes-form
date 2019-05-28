@@ -1,5 +1,9 @@
 # Change history for stripes-form
 
+## 2.6.0 (IN PROGRESS)
+
+* On error, scroll to error attached to any valid react element. Refs STFORM-9.
+
 ## [2.5.0](https://github.com/folio-org/stripes-form/tree/v2.5.0) (2019-05-10)
 [Full Changelog](https://github.com/folio-org/stripes-form/compare/v2.4.0...v2.5.0)
 
