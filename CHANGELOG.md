@@ -1,5 +1,10 @@
 # Change history for stripes-form
 
+## 2.7.0 (IN PROGRESS)
+
+* Increment `stripes-core` to v3.7.0.
+* Increment `stripes-components` to v5.5.0.
+
 ## [2.6.0](https://github.com/folio-org/stripes-form/tree/v2.6.0) (2019-06-07)
 [Full Changelog](https://github.com/folio-org/stripes-form/compare/v2.5.0...v2.6.0)
 
