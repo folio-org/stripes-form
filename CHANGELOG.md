@@ -1,5 +1,9 @@
 # Change history for stripes-form
 
+## 2.10.0 (IN PROGRESS)
+
+* Move react-router to a peerDependency. Refs STCOM-581.
+
 ## [2.9.0](https://github.com/folio-org/stripes-form/tree/v2.9.0) (2019-09-09)
 [Full Changelog](https://github.com/folio-org/stripes-form/compare/v2.8.0...v2.9.0)
 
