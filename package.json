@@ -1,6 +1,6 @@
 {
   "name": "@folio/stripes-form",
-  "version": "2.9.0",
+  "version": "2.11.0",
   "description": "Form state management in Stripes.",
   "license": "Apache-2.0",
   "repository": "folio-org/stripes-form",
@@ -27,8 +27,8 @@
     "webpack": "^4.10.2"
   },
   "dependencies": {
-    "@folio/stripes-components": "~5.7.0",
-    "@folio/stripes-core": "~3.9.0",
+    "@folio/stripes-components": "~5.9.0",
+    "@folio/stripes-core": "~3.11.0",
     "flat": "^4.0.0",
     "prop-types": "^15.5.10",
     "react-intl": "^2.4.0",
