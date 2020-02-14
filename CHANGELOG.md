@@ -1,6 +1,6 @@
 # Change history for stripes-form
 
-## 2.12.0 (IN PROGRESS)
+## 3.0.0 (IN PROGRESS)
 
 ## [2.11.0](https://github.com/folio-org/stripes-form/tree/v2.11.0) (2019-12-04)
 [Full Changelog](https://github.com/folio-org/stripes-form/compare/v2.10.0...v2.11.0)
