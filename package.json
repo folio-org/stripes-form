@@ -27,8 +27,8 @@
     "webpack": "^4.10.2"
   },
   "dependencies": {
-    "@folio/stripes-components": "~6.0.0",
-    "@folio/stripes-core": "~4.0.0",
+    "@folio/stripes-components": ">=6.0.0",
+    "@folio/stripes-core": ">=4.0.0",
     "flat": "^4.0.0",
     "prop-types": "^15.5.10",
     "redux-form": "^7.0.3"
