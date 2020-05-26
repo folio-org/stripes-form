@@ -1,5 +1,12 @@
 # Change history for stripes-form
 
+## [4.0.0](https://github.com/folio-org/stripes-form/tree/v4.0.0) (2020-05-19)
+[Full Changelog](https://github.com/folio-org/stripes-form/compare/v3.1.0...v4.0.0)
+
+* Increment `react-intl` to `v4.5`. Refs STRIPES-672.
+* Increment `stripes-core` to v5.0.0.
+* Increment `stripes-components` to v7.0.0.
+
 ## [3.1.0](https://github.com/folio-org/stripes-form/tree/v3.1.0) (2020-03-16)
 [Full Changelog](https://github.com/folio-org/stripes-form/compare/v3.0.0...v3.1.0)
 
