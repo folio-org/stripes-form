@@ -1,5 +1,14 @@
 # Change history for stripes-form
 
+## 5.0.0 (IN PROGRESS)
+
+* Increment `react-router` to `^5.2`. Refs STRIPES-674.
+
+## [4.0.1](https://github.com/folio-org/stripes-form/tree/v4.0.1) (2020-06-08)
+[Full Changelog](https://github.com/folio-org/stripes-form/compare/v4.0.0...v4.0.1)
+
+* translations
+
 ## [4.0.0](https://github.com/folio-org/stripes-form/tree/v4.0.0) (2020-05-19)
 [Full Changelog](https://github.com/folio-org/stripes-form/compare/v3.1.0...v4.0.0)
 
