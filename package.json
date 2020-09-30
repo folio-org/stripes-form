@@ -18,6 +18,8 @@
   },
   "devDependencies": {
     "@folio/eslint-config-stripes": "^5.0.0",
+    "@folio/stripes-components": "^8.0.0",
+    "@folio/stripes-core": "^6.0.0",
     "babel-eslint": "^9.0.0",
     "eslint": "^6.2.1",
     "react": "^16.8.6",
@@ -27,13 +29,13 @@
     "webpack": "^4.10.2"
   },
   "dependencies": {
-    "@folio/stripes-components": "~8.0.0",
-    "@folio/stripes-core": "~6.0.0",
     "flat": "^4.0.0",
     "prop-types": "^15.5.10",
     "redux-form": "^7.0.3"
   },
   "peerDependencies": {
+    "@folio/stripes-components": "^8.0.0",
+    "@folio/stripes-core": "^6.0.0",
     "react": "*",
     "react-intl": "^4.5.3",
     "react-router": "^5.2.0"
