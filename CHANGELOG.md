@@ -3,6 +3,7 @@
 ## 5.0.0 (IN PROGRESS)
 
 * Increment `react-router` to `^5.2`. Refs STRIPES-674.
+* Move inter-stripes deps to peers. Refs STFORM-13.
 
 ## [4.0.1](https://github.com/folio-org/stripes-form/tree/v4.0.1) (2020-06-08)
 [Full Changelog](https://github.com/folio-org/stripes-form/compare/v4.0.0...v4.0.1)
