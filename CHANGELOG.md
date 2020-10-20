@@ -1,8 +1,12 @@
 # Change history for stripes-form
 
-## 5.0.0 (IN PROGRESS)
+## 5.1.0 IN PROGRESS
+
+## [5.0.0](https://github.com/folio-org/stripes-form/tree/v5.0.0) (2020-10-06)
+[Full Changelog](https://github.com/folio-org/stripes-form/compare/v4.0.1...v5.0.0)
 
 * Increment `react-router` to `^5.2`. Refs STRIPES-674.
+* Move inter-stripes deps to peers. Refs STFORM-13.
 
 ## [4.0.1](https://github.com/folio-org/stripes-form/tree/v4.0.1) (2020-06-08)
 [Full Changelog](https://github.com/folio-org/stripes-form/compare/v4.0.0...v4.0.1)
