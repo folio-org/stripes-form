@@ -1,6 +1,7 @@
 # Change history for stripes-form
 
-## 5.0.1 IN PROGRESS
+## [5.0.1](https://github.com/folio-org/stripes-form/tree/v5.0.1) (2020-10-29)
+[Full Changelog](https://github.com/folio-org/stripes-form/compare/v5.0.0...v5.0.1)
 
 * Increment `react-intl` to `^5.7`. Refs STFORM-14.
 
