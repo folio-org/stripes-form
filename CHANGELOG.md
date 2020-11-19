@@ -4,6 +4,7 @@
 [Full Changelog](https://github.com/folio-org/stripes-form/compare/v5.0.0...v5.0.1)
 
 * Increment `react-intl` to `^5.7`. Refs STFORM-14.
+* Do not show prompt when submitting is in progress. Fixes STFORM-16.
 
 ## [5.0.0](https://github.com/folio-org/stripes-form/tree/v5.0.0) (2020-10-06)
 [Full Changelog](https://github.com/folio-org/stripes-form/compare/v4.0.1...v5.0.0)
