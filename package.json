@@ -24,14 +24,14 @@
     "eslint": "^6.2.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-redux": "^5.0.7",
+    "react-redux": "^7.2.0",
     "redux": "^4.0.0",
     "webpack": "^4.10.2"
   },
   "dependencies": {
     "flat": "^4.0.0",
     "prop-types": "^15.5.10",
-    "redux-form": "^7.0.3"
+    "redux-form": "^8.3.0"
   },
   "peerDependencies": {
     "@folio/stripes-components": "^8.0.0",
