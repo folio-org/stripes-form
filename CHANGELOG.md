@@ -6,7 +6,6 @@
 * Do not show prompt when submitting is in progress. Fixes STFORM-16.
 * Increment `stripes-core` to v7.0.0.
 * Increment `stripes-components` to v9.0.0.
-* Increment `react` to v17. STFORM-18.
 
 ## [5.0.0](https://github.com/folio-org/stripes-form/tree/v5.0.0) (2020-10-06)
 [Full Changelog](https://github.com/folio-org/stripes-form/compare/v4.0.1...v5.0.0)
