@@ -1,6 +1,7 @@
 # Change history for stripes-form
 
-## 6.0.0 IN PROGRESS
+## [6.0.0](https://github.com/folio-org/stripes-form/tree/v6.0.0) (2021-02-25)
+[Full Changelog](https://github.com/folio-org/stripes-form/compare/v5.0.0...v6.0.0)
 
 * Increment `react-intl` to `^5.7`. Refs STFORM-14.
 * Do not show prompt when submitting is in progress. Fixes STFORM-16.
