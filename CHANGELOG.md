@@ -1,5 +1,10 @@
 # Change history for stripes-form
 
+## [7.0.0](https://github.com/folio-org/stripes-form/tree/v7.0.0) (2021-09-27)
+[Full Changelog](https://github.com/folio-org/stripes-form/compare/v6.1.0...v7.0.0)
+
+* React 17. STFORM-18.
+
 ## [6.1.0](https://github.com/folio-org/stripes-form/tree/v6.1.0) (2021-06-09)
 [Full Changelog](https://github.com/folio-org/stripes-form/compare/v6.0.0...v6.1.0)
 
