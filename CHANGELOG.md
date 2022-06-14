@@ -1,6 +1,7 @@
 # Change history for stripes-form
 
-## 7.1.0 IN PROGRESS
+## [7.1.0](https://github.com/folio-org/stripes-form/tree/v7.1.0) (2022-06-14)
+[Full Changelog](https://github.com/folio-org/stripes-form/compare/v7.0.0...v7.1.0)
 
 * Upgrade NodeJS to active LTS, v16. Refs STFORM-23.
 * Migrate to `@babel/eslint-parser`. Refs STFORM-22.
