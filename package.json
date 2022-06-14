@@ -4,7 +4,9 @@
   "description": "Form state management in Stripes.",
   "license": "Apache-2.0",
   "repository": "folio-org/stripes-form",
-  "sideEffects": ["*.css"],
+  "sideEffects": [
+    "*.css"
+  ],
   "publishConfig": {
     "registry": "https://repository.folio.org/repository/npm-folio/"
   },
@@ -17,11 +19,12 @@
     "node": ">=14.0.0"
   },
   "devDependencies": {
-    "@folio/eslint-config-stripes": "^5.0.0",
+    "@babel/eslint-parser": "^7.18.2",
+    "@folio/eslint-config-stripes": "^6.1.0",
     "@folio/stripes-components": "^10.0.0",
     "@folio/stripes-core": "^8.0.0",
-    "babel-eslint": "^9.0.0",
-    "eslint": "^6.2.1",
+    "eslint": "^7.32.0",
+    "eslint-import-resolver-webpack": "^0.13.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-redux": "^7.2.0",
