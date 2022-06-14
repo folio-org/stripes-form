@@ -3,6 +3,7 @@
 ## 7.1.0 IN PROGRESS
 
 * Upgrade NodeJS to active LTS, v16. Refs STFORM-23.
+* Migrate to `@babel/eslint-parser`. Refs STFORM-22.
 
 ## [7.0.0](https://github.com/folio-org/stripes-form/tree/v7.0.0) (2021-09-27)
 [Full Changelog](https://github.com/folio-org/stripes-form/compare/v6.1.0...v7.0.0)
