@@ -1,5 +1,10 @@
 # Change history for stripes-form
 
+## [7.1.1](https://github.com/folio-org/stripes-form/tree/v7.1.1) (2022-10-13)
+[Full Changelog](https://github.com/folio-org/stripes-form/compare/v7.1.0...v7.1.1)
+
+* translations
+
 ## [7.1.0](https://github.com/folio-org/stripes-form/tree/v7.1.0) (2022-06-14)
 [Full Changelog](https://github.com/folio-org/stripes-form/compare/v7.0.0...v7.1.0)
 
