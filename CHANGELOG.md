@@ -2,7 +2,6 @@
 
 ## 8.0.0 IN PROGRESS
 
-* *BREAKING* bump `stripes-components`, `stripes-core` major versions.
 * Bump `flat` to avoid security concerns. Refs STFORM-28.
 
 ## [7.1.1](https://github.com/folio-org/stripes-form/tree/v7.1.1) (2022-10-13)
