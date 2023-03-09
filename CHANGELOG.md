@@ -1,8 +1,10 @@
 # Change history for stripes-form
 
-## 8.0.0 IN PROGRESS
+## [8.0.0](https://github.com/folio-org/stripes-form/tree/v8.0.0) (2023-01-30)
+[Full Changelog](https://github.com/folio-org/stripes-form/compare/v7.1.1...v8.0.0)
+
 * Bump `flat` to avoid security concerns. Refs STFORM-28.
-* Upgrade `react-redux` to `v8`. Refs STFORM-30.
+* *BREAKING:* Upgrade `react-redux` to `v8`. Refs STFORM-30.
 
 ## [7.1.1](https://github.com/folio-org/stripes-form/tree/v7.1.1) (2022-10-13)
 [Full Changelog](https://github.com/folio-org/stripes-form/compare/v7.1.0...v7.1.1)
