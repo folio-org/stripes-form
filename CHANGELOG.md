@@ -3,6 +3,7 @@
 ## 8.1.0 IN PROGRESS
 
 * Avoid private paths in stripes-core imports. Refs STFORM-35.
+* Compile translations. Refs STFORM-36.
 
 ## [8.0.0](https://github.com/folio-org/stripes-form/tree/v8.0.0) (2023-01-30)
 [Full Changelog](https://github.com/folio-org/stripes-form/compare/v7.1.1...v8.0.0)
