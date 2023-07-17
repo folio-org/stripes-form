@@ -1,6 +1,6 @@
 # Change history for stripes-form
 
-## 8.1.0 IN PROGRESS
+## 9.0.0 IN PROGRESS
 
 * Avoid private paths in stripes-core imports. Refs STFORM-35.
 * Compile translations. Refs STFORM-36.
