@@ -5,6 +5,7 @@
 * Avoid private paths in stripes-core imports. Refs STFORM-35.
 * Compile translations. Refs STFORM-36.
 * *BREAKING* Update `react` to `v18`. Refs STFORM-37.
+* *BREAKING* bump `react-intl` to `v6.4.4`. Refs STFORM-40.
 
 ## [8.0.0](https://github.com/folio-org/stripes-form/tree/v8.0.0) (2023-01-30)
 [Full Changelog](https://github.com/folio-org/stripes-form/compare/v7.1.1...v8.0.0)
