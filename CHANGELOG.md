@@ -2,6 +2,8 @@
 
 ## 9.1.0 IN PROGRESS
 
+* Ignore the dirty-form prompt when navigating to a logout location. STFORM-42.
+
 ## [9.0.0](https://github.com/folio-org/stripes-form/tree/v9.0.0) (2023-10-11)
 [Full Changelog](https://github.com/folio-org/stripes-form/compare/v8.0.0...v9.0.0)
 
