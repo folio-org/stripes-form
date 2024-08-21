@@ -1,6 +1,7 @@
 # Change history for stripes-form
 
-## 9.0.1 IN PROGRESS
+## [9.0.1](https://github.com/folio-org/stripes-form/tree/v9.0.1) (2024-08-21)
+[Full Changelog](https://github.com/folio-org/stripes-form/compare/v9.0.0...v9.0.1)
 
 * Ignore the dirty-form prompt when navigating to a logout location. STFORM-42.
 
