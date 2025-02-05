@@ -2,6 +2,8 @@
 
 ## 10.0.0 IN PROGRESS
 
+* *BREAKING* Upgrade `@folio/stripes-*` dependencies. Refs STFORM-48.
+
 ## [9.1.0](https://github.com/folio-org/stripes-form/tree/v9.1.0) (2024-10-11)
 [Full Changelog](https://github.com/folio-org/stripes-form/compare/v9.0.0...v10.0.0)
 
