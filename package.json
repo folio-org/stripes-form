@@ -3,7 +3,10 @@
   "version": "10.0.0",
   "description": "Form state management in Stripes.",
   "license": "Apache-2.0",
-  "repository": "folio-org/stripes-form",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/folio-org/stripes-form.git"
+  },
   "sideEffects": [
     "*.css"
   ],
@@ -16,9 +19,6 @@
     "lint": "eslint .",
     "test": "echo 'Placeholder. No local unit tests currently implemented.'"
   },
-  "engines": {
-    "node": ">=14.0.0"
-  },
   "devDependencies": {
     "@babel/eslint-parser": "^7.18.2",
     "@folio/eslint-config-stripes": "^8.0.0",
@@ -30,8 +30,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-redux": "^8.0.5",
-    "redux": "^4.0.0",
-    "webpack": "^4.10.2"
+    "redux": "^4.0.0"
   },
   "dependencies": {
     "flat": "^5.0.2",
