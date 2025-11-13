@@ -2,11 +2,15 @@
 
 A [redux-form](https://github.com/erikras/redux-form) wrapper for Stripes
 
-**Usage:**
+## Legacy use only
+
+Use https://github.com/folio-org/stripes-final-form for any new development. This package is maintained for legacy use only.
+
+## Usage:
 
     stripesForm({
-	  ...options
-	})(StripesComponent);
+      ...options
+    })(StripesComponent);
 
 The options are passed through to `reduxForm`, so any applicable form options can be used here. In addition to the `reduxForm` options there are the following `stripesForm`-specific options:
 
