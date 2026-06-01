@@ -1,6 +1,12 @@
 # Change history for stripes-form
 
+## [10.1.1](https://github.com/folio-org/stripes-form/tree/v10.1.1) (2026-06-01)
+[Full Changelog](https://github.com/folio-org/stripes-form/compare/v10.1.0...v10.1.1)
+
+* Include recent translation updates. 
+
 ## [10.1.0](https://github.com/folio-org/stripes-form/tree/v10.1.0) (2026-04-14)
+[Full Changelog](https://github.com/folio-org/stripes-form/compare/v10.0.0...v10.1.0)
 
 * Resolve confirmation modal issue when navigating to same URL. Refs STFORM-54.
 
