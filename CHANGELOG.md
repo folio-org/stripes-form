@@ -1,7 +1,7 @@
 # Change history for stripes-form
 
-## [10.1.1](https://github.com/folio-org/stripes-form/tree/v10.1.1) (2026-06-01)
-[Full Changelog](https://github.com/folio-org/stripes-form/compare/v10.1.0...v10.1.1)
+## [10.1.2](https://github.com/folio-org/stripes-form/tree/v10.1.2) (2026-06-02)
+[Full Changelog](https://github.com/folio-org/stripes-form/compare/v10.1.0...v10.1.2)
 
 * Include recent translation updates. 
 
