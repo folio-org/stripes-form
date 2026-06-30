@@ -1,6 +1,6 @@
 {
   "name": "@folio/stripes-form",
-  "version": "10.1.0",
+  "version": "11.0.0",
   "description": "Form state management in Stripes.",
   "license": "Apache-2.0",
   "repository": {
@@ -24,7 +24,7 @@
     "@folio/eslint-config-stripes": "^8.0.0",
     "@folio/stripes-cli": "^4.0.0",
     "@folio/stripes-components": "^13.0.0",
-    "@folio/stripes-core": "^11.0.0",
+    "@folio/stripes-core": "^11.2.0",
     "eslint": "^7.32.0",
     "eslint-import-resolver-webpack": "^0.13.2",
     "react": "^18.2.0",
@@ -39,7 +39,7 @@
   },
   "peerDependencies": {
     "@folio/stripes-components": "^13.0.0",
-    "@folio/stripes-core": "^11.0.0",
+    "@folio/stripes-core": "^11.2.0",
     "react": "^18.2.0",
     "react-intl": "^7.1.5",
     "react-router": "^5.2.0"
