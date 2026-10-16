@@ -4,6 +4,7 @@
 
 * Supply Personal Data Disclosure form. Refs STFORM-53.
 * Handle unguardable navigation via stripes-core::isGuardable. Refs STFORM-56.
+* Migrate from `eslint` to `oxlint` via `@folio/eslint-config-stripes` v10. Refs STFORM-58.
 
 ## [10.1.0](https://github.com/folio-org/stripes-form/tree/v10.1.0) (2026-04-14)
 
