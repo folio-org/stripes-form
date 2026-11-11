@@ -1,6 +1,6 @@
 {
   "name": "@folio/stripes-form",
-  "version": "10.1.2",
+  "version": "10.1.3",
   "description": "Form state management in Stripes.",
   "license": "Apache-2.0",
   "repository": {

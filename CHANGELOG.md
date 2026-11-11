@@ -1,6 +1,7 @@
 # Change history for stripes-form
 
-## IN PROGRESS
+## [10.1.3](https://github.com/folio-org/stripes-form/tree/v10.1.3) (2026-11-11)
+[Full Changelog](https://github.com/folio-org/stripes-form/compare/v10.1.2...v10.1.3)
 
 * Handle unguardable navigation via stripes-core::isGuardable. Refs STFORM-56.
 
